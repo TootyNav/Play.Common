@@ -9,6 +9,7 @@
   <ItemGroup>
     <PackageReference Include="microsoft.extensions.configuration" Version="7.0.0" />
     <PackageReference Include="microsoft.extensions.configuration.binder" Version="7.0.4" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
     <PackageReference Include="MongoDB.Driver" Version="2.19.1" />
   </ItemGroup>
 
